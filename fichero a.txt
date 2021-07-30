@@ -1,0 +1,3 @@
+Contenido del fichero a
+Texto modificado de nuevo
+otra vez
